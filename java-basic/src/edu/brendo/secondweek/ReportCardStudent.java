@@ -1,3 +1,5 @@
+package edu.brendo.secondweek;
+
 public class ReportCardStudent {
 
     public static void main(String[] args) {
